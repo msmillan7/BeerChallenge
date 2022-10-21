@@ -12,3 +12,5 @@ The main objective of this notebook is to respond the following questions regard
 
 To explore the data and respond to the above questions, I have used some of my knowledge in different fields, such as Sentiment Analysis, Recommender Systems and Distributed Systems.
 
+To reproduce the results, the user shall execute the Jupyter Notebook cells sequentially and have installed the propper tools and packages described along the notebook.
+
