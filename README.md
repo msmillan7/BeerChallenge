@@ -10,7 +10,7 @@ The main objective of this notebook is to respond the following questions regard
 6.	How does written review compare to overall review score for the beer styles?
 7.	How do find similar beer drinkers by using written reviews only?   
 
-To explore the data and respond to the above questions, I have used some of my knowledge in different fields, such as Sentiment Analysis, Recommender Systems and Distributed Systems.
+To explore the data and respond to the above questions, I have used some of my knowledge in different fields, such as Statistics, Sentiment Analysis, Recommender Systems and Distributed Systems.
 
 To reproduce the results, the user shall execute the Jupyter Notebook cells sequentially and have installed the propper tools and packages described along the notebook.
 
